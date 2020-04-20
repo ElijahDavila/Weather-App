@@ -1,0 +1,11 @@
+{
+  "name": "@elijahdavila/weatherapp",
+  "version": "1.0.0",
+  "description": "WIN weather app 4 17 20",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elijah davila",
+  "license": "ISC"
+}
